@@ -1,1 +1,6 @@
 # MusicGenerator-AndroidApp
+Project for TUM Master Course "Android Apps for Vehicle-Technology"
+Course Website: https://www.ftm.mw.tum.de/lehre/hochschulpraktika/praktikum-android-apps-in-der-fahrzeugtechnik/
+
+This Repository contains the Java Code for an Android App made for Music Generation.
+As special feature it is able to do MNIST Classification over Screen-Input
