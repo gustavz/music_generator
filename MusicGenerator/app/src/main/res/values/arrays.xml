@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="genreNetEntries">
+        <item>Hip Hop</item>
+        <item>Pop</item>
+        <item>Classic</item>
+        <item>Electro</item>
+        <item>8 Bit</item>
+    </string-array>
+    <string-array name="genreNetValues">
+        <item>Hip Hop</item>
+        <item>Pop</item>
+        <item>Classic</item>
+        <item>Electro</item>
+        <item>8 Bit</item>
+    </string-array>
+</resources>

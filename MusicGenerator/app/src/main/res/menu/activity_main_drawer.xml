@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_createMusic"
+            android:icon="@android:drawable/ic_media_play"
+            android:title="@string/navigation_drawer_createMusic" />
+        <item
+            android:id="@+id/nav_settings"
+            android:icon="@android:drawable/ic_menu_manage"
+            android:title="@string/navigation_drawer_settings" />
+        <item
+            android:id="@+id/nav_midiSamples"
+            android:icon="@android:drawable/ic_menu_compass"
+            android:title="@string/navigation_drawer_midiSamples" />
+        <item
+            android:id="@+id/nav_soundBook"
+            android:icon="@android:drawable/ic_btn_speak_now"
+            android:title="@string/navigation_drawer_soundBook" />
+        <item
+            android:id="@+id/nav_mnist"
+            android:icon="@android:drawable/ic_menu_camera"
+            android:title="MNIST" />
+    </group>
+
+</menu>

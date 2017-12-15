@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <PreferenceCategory
+        android:title="Music Settings">
+        <Preference
+            android:title="@string/set_soundbook_size"
+            android:key="@string/set_soundbook_size_key"
+            android:defaultValue="unknown"
+            android:selectable="true"/>
+        <ListPreference
+            android:title="@string/set_GenreNet"
+            android:key="@string/set_GenreNet_key"
+            android:dialogTitle="@string/set_GenreNet_dialogtitle"
+            android:summary="@string/set_GenreNet_dialogtitle"
+            android:entries="@array/genreNetEntries"
+            android:entryValues="@array/genreNetValues"
+            android:defaultValue="@string/set_GenreNet_default_entry" />
+        <CheckBoxPreference
+            android:title="@string/set_Autosave"
+            android:key="autosave_on"
+            android:summary="@string/set_Autosave_summary"
+            android:defaultValue="false"/>
+
+    </PreferenceCategory>
+
+</PreferenceScreen>
