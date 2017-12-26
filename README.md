@@ -6,4 +6,5 @@ This Repository contains the Java Code for an Android App made for Music Generat
 As special feature it is able to do MNIST Classification over Screen-Input using Tensorflow.
 
 You also find a presentation as a pdf file for introduction purpose. <br />
-[embed] music_generator/MusicGenerator_Presentation.pdf [/embed]
+https://docs.google.com/viewer?url=https://github.com/GustavZ/music_generator/blob/master/MusicGenerator_Presentation.pdf
+
